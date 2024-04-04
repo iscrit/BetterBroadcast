@@ -12,6 +12,7 @@ Simple lightweight broadcast skript!
  - Webhook Support (Allows you to connect your own webhook!) 🚨
  - Customizable GUI (A gui that lets you broadcast the commands) 🎮
  - Better /broadcast comamnd! (More options with /broadcast)
+ - Restore command 😇 (Lost control of your server? You can restore your op!)
 
 
 
