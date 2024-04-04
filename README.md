@@ -13,6 +13,13 @@ Simple lightweight broadcast skript!
  - Customizable GUI (A gui that lets you broadcast the commands) 🎮
  - Better /broadcast comamnd! (More options with /broadcast)
  - Restore command 😇 (Lost control of your server? You can restore your op!)
+ - Anti-IP (This part detects players that are using bad clients/Ip ban evading and bans them!)
+
+
+
+## Keys
+
+- We have a default key name ``Critcalthret`` set to verify your skript! Removing this key can tamper with the skripts security features we reccomend you turn off advanced logging instead of changing the key!
 
 
 
