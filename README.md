@@ -26,8 +26,7 @@ Simple lightweight broadcast skript!
 
 
 
-
-
+```A support discord where you can get free skripts is coming soon!```
 
 
 Do not distrubute this skript under your name i will find you :)
