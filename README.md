@@ -13,7 +13,7 @@ Simple lightweight broadcast skript!
  - Customizable GUI (A gui that lets you broadcast the commands) 🎮
  - Better /broadcast comamnd! (More options with /broadcast)
  - Restore command 😇 (Lost control of your server? You can restore your op!)
- - Anti-IP (This part detects players that are using bad clients/Ip ban evading and bans them!)
+ - Some moderaiton commands (My little teaser.)
 
 
 
@@ -38,3 +38,4 @@ Simple lightweight broadcast skript!
 
 
 Do not distrubute this skript under your name i will find you :)
+To use this make sure you have SKCORD: https://www.spigotmc.org/threads/skcord-send-discord-webhooks-embed-support.582679/
