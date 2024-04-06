@@ -2,8 +2,12 @@
 
 
 
-Simple lightweight broadcast skript!
+**
 
+## Simple lightweight broadcast skript!
+
+**
+**Download**: [here](https://github.com/iscrit/BetterBroadcast/releases/tag/Skript)
 
 
 
@@ -38,4 +42,4 @@ Simple lightweight broadcast skript!
 
 
 Do not distrubute this skript under your name i will find you :)
-To use this make sure you have SKCORD: https://www.spigotmc.org/threads/skcord-send-discord-webhooks-embed-support.582679/
+To use this make sure you have [SKCORD](https://www.spigotmc.org/threads/skcord-send-discord-webhooks-embed-support.582679/)
