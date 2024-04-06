@@ -23,7 +23,7 @@
 
 ## Keys
 
-- We have a default key name ``Critcalthret`` set to verify your skript! Removing this key can tamper with the skripts security features we reccomend you turn off advanced logging instead of changing the key!
+- We call it a key but please just put your username as the key, Or dont tocuh it ``you should really put your username``
 
 
 
