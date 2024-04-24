@@ -21,18 +21,11 @@
 
 
 
-## Keys
-
-- We call it a key but please just put your username as the key, Or dont tocuh it ``you should really put your username``
-
-
-
-
 
 ## Information
 
 
-```Need help? Wew got none :D```
+```Need help? Visit our website``
 
 ```V1.0.3```
 
